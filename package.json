@@ -1,0 +1,26 @@
+{
+  "name": "js_for_testers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01_Basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "basics": "node 01_Basic.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvaSwift/js_for_testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvaSwift/js_for_testing/issues"
+  },
+  "homepage": "https://github.com/IvaSwift/js_for_testing#readme",
+  "dependencies": {
+    "mocka": "0.0.1"
+  },
+  "devDependencies": {
+    "chai": "^5.1.0"
+  }
+}
