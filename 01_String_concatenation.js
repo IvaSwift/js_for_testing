@@ -25,4 +25,5 @@ let counter = 1;
 let aa = counter++; // (*) changed ++counter to counter++
 
 console.log(aa); // 1
-console.log(counter);
+console.log(counter); //2
+
