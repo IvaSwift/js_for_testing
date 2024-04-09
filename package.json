@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/IvaSwift/js_for_testing#readme",
   "dependencies": {
+    "inquirer": "^9.2.17",
     "mocka": "0.0.1",
     "open": "^10.1.0"
   },
